@@ -206,3 +206,5 @@ Follow the phased commissioning procedure outlined in Section 8 of the project d
    - Feed clean, dry PET strip into the guide and hotend.
    - Check strip traction, melt flow, and filament output diameter with a digital micrometer.
 
+#   P E T 2 P R I N T  
+ 
