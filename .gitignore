@@ -1,0 +1,19 @@
+# Arduino build artifacts
+*.hex
+*.bin
+*.elf
+build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Editor / OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
